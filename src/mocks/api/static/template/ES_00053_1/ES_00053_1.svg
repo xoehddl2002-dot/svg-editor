@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg width="348" height="819" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 348 819" version="1.1" xml:space="preserve">
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_5">
+   <image height="819.12" id="svg_1" overflow="visible" preserveAspectRatio="none" transform="matrix(1,0,0,1,0,0)" width="348" x="0" xlink:href="1F00332F.png" y="0"/>
+  </g>
+  <text fill="#AB4F91" font-family="&#x27;esamanruBold&#x27;" font-size="85" id="svg_2" transform="matrix(1,0,0,1,0,0)" x="92.7" y="242.51">포장</text>
+  <text fill="#4B2E91" font-family="&#x27;esamanruBold&#x27;" font-size="85" id="svg_3" transform="matrix(1,0,0,1,0,0)" x="92.7" y="342.25">배달</text>
+  <text fill="#705BA7" font-family="&#x27;esamanruBold&#x27;" font-size="85" id="svg_4" transform="matrix(1,0,0,1,0,0)" x="92.7" y="444.75">가능</text>
+ </g>
+</svg>

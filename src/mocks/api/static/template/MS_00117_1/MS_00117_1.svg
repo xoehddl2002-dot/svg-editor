@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<svg width="348" height="819" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 348 819" version="1.1" xml:space="preserve">
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_5">
+   <rect fill="#FCB323" height="819" id="svg_7" width="348"/>
+   <g id="svg_8">
+    <path d="m295.21,20l31.79,32l0,321.02l-306,0l0,-321.02l31.79,-32l242.42,0m0.83,-2l-0.83,0l-242.42,0l-0.83,0l-0.59,0.59l-31.79,32l-0.58,0.58l0,0.83l0,321.02l0,2l2,0l306,0l2,0l0,-2l0,-321.02l0,-0.83l-0.58,-0.58l-31.79,-32l-0.59,-0.59l0,0z" fill="#010101" id="svg_9"/>
+   </g>
+   <g id="svg_10">
+    <polygon fill="#FBB31F" id="svg_11" points="52.376,802.365 20,769.775 20,374.365 328,374.365 328,769.775 295.624,802.365 		"/>
+    <path d="m327,375.37l0,393.99l-31.79,32.01l-242.42,0l-31.79,-32.01l0,-393.99l306,0m2,-2l-2,0l-306,0l-2,0l0,2l0,393.99l0,0.83l0.58,0.58l31.79,32l0.59,0.6l0.83,0l242.42,0l0.83,0l0.59,-0.6l31.79,-32l0.58,-0.58l0,-0.83l0,-393.99l0,-2l0,0z" fill="#010101" id="svg_12"/>
+   </g>
+  </g>
+  <g id="svg_6">
+   <defs>
+    <polygon id="SVGID_1_" points="21,375.365 21,769.363 52.791,801.365 295.207,801.365 327,769.363 327,375.365 		"/>
+   </defs>
+   <clipPath id="SVGID_2_">
+    <use id="svg_13" overflow="visible" xlink:href="#SVGID_1_"/>
+   </clipPath>
+   <g clip-path="url(#SVGID_2_)" id="svg_14">
+    <image height="425.98" id="svg_1" overflow="visible" preserveAspectRatio="none" transform="matrix(1,0,0,1,0,0)" width="567.98" x="-150" xlink:href="993FC33F.png" y="375.37"/>
+   </g>
+  </g>
+  <text fill="#010101" font-family="&#x27;BBTreeTB&#x27;" font-size="85" id="svg_2" transform="matrix(1,0,0,1,0,0)" x="87.94" y="142.39">머리가</text>
+  <text fill="#010101" font-family="&#x27;BBTreeTB&#x27;" font-size="85" id="svg_3" transform="matrix(1,0,0,1,0,0)" x="57.13" y="229.64">예뻐지는</text>
+  <text fill="#010101" font-family="&#x27;BBTreeTB&#x27;" font-size="85" id="svg_4" transform="matrix(1,0,0,1,0,0)" x="87.3" y="316.89">미용실</text>
+ </g>
+</svg>

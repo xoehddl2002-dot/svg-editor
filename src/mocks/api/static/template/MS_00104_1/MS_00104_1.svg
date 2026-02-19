@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<svg width="348" height="819" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 348 819" version="1.1" xml:space="preserve">
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_7">
+   <defs>
+    <path d="m0,0l0,388.3c51.03,-30.05 110.5,-47.3 174,-47.3s122.97,17.25 174,47.3l0,-388.3l-348,0z" id="SVGID_1_"/>
+   </defs>
+   <clipPath id="SVGID_2_">
+    <use id="svg_9" overflow="visible" xlink:href="#SVGID_1_"/>
+   </clipPath>
+   <g clip-path="url(#SVGID_2_)" id="svg_10" transform="matrix(1 0 0 1 7.629395e-006 9.536743e-007)">
+    <image height="407.31" id="svg_1" overflow="visible" preserveAspectRatio="none" transform="matrix(1,0,0,1,0,0)" width="543.15" x="-97.58" xlink:href="4EFD044A.jpg" y="-10.47"/>
+   </g>
+  </g>
+  <path d="m174,341c-63.5,0 -122.97,17.25 -174,47.3l0,70.7l0,360l348,0l0,-360l0,-70.7c-51.03,-30.05 -110.5,-47.3 -174,-47.3z" fill="#E68C29" id="svg_8"/>
+  <text fill="#FFFFFF" font-family="&#x27;BBTreeTB&#x27;" font-size="37" id="svg_2" transform="matrix(1,0,0,1,0,0)" x="81.87" y="430.68">오리요리 전문점</text>
+  <text fill="#FFFFFF" font-family="&#x27;esamanruBold&#x27;" font-size="64" id="svg_3" transform="matrix(1,0,0,1,0,0)" x="81.64" y="517.29">한번만</text>
+  <text fill="#FFFFFF" font-family="&#x27;esamanruBold&#x27;" font-size="64" id="svg_4" transform="matrix(1,0,0,1,0,0)" x="112.42" y="599.44">먹은</text>
+  <text fill="#FFFFFF" font-family="&#x27;esamanruBold&#x27;" font-size="64" id="svg_5" transform="matrix(1,0,0,1,0,0)" x="82.35" y="681.58">사람은</text>
+  <text fill="#FFFFFF" font-family="&#x27;esamanruBold&#x27;" font-size="64" id="svg_6" transform="matrix(1,0,0,1,0,0)" x="112.42" y="763.72">없다</text>
+ </g>
+</svg>

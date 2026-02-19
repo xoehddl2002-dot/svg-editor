@@ -1,0 +1,53 @@
+
+.twitter-picker div span div{
+    width: 65px !important;
+    height: 65px !important;
+    margin-right:6px !important;
+    margin-bottom: 6px !important;
+}
+
+.twitter-picker div span:nth-child(7) div,
+.twitter-picker div span:nth-child(14) div,
+.twitter-picker div span:nth-child(21) div,
+.twitter-picker div span:nth-child(28) div,
+.twitter-picker div span:nth-child(35) div{
+    margin-right: 0 !important;
+}
+
+
+.twitter-picker > div > div{
+    width: 65px !important;
+    height: 45px !important;
+    display: inline-block;
+}
+
+.twitter-picker div input{
+    width: 420px !important;
+    height: 45px !important;
+    float: left;
+}
+.twitter-picker > div{
+    padding: 2.0rem !important;
+    padding-top:5.3rem !important;
+}
+
+.sketch-picker{
+    position: absolute;
+    top:12.5rem;
+    left: 2rem;
+}
+
+.alpha-picker{
+    position: absolute !important;
+    z-index: 1;
+    top:2rem;
+    left:1.5rem;
+    height: 1.5rem !important;
+    width: 31rem !important;
+}
+
+.alpha-picker > div > div>div>div{
+    width: 1.65rem !important;
+    height: 1.65rem !important;
+
+}
