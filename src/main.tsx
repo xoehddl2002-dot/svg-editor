@@ -3,7 +3,7 @@ import App from './App.tsx'
 import './index.css'
 import { worker } from '@/mocks/server.ts'
 
-if (import.meta.env.DEV) {
+if (import.meta.env.VITE_ENABLE_MOCK) {
   await new Promise<void>(resolve =>
     worker
       .start({
